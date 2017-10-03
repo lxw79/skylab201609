@@ -122,6 +122,7 @@ p{
 }
 ul.wmuSliderPagination {
 	padding:0;
+	display: none;
 }
 .wmuSliderPagination li {
 	float: left;
