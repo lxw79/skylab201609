@@ -29,10 +29,7 @@ a:active {color: #337ab7}
     height: 1150px;
     background-color: #30394D;
 }
-#uyan_frame{
-    width: 60%;
-    margin-left: 20%;
-}
+
 #uyan_frame h4{
     color: White;
 }
@@ -59,7 +56,11 @@ a:active {color: #337ab7}
 }
 .copyright p{
     color: White;
+    margin: 0;
 }
 .footer{
+    font-size:16px;
     background-color: #101010;
+    padding: 1.5em 0;
+
 }
